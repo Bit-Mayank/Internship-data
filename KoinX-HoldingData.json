@@ -229,4 +229,4 @@ const cryptoHoldings = [
     shortTerm: -600,
     longTerm: 2100,
   }
-];
+]
