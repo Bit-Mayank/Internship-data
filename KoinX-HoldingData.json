@@ -8,7 +8,6 @@
     total: "$54,402.38",
     shortTerm: -1200,
     longTerm: 2400,
-    toSell: "-",
   },
   {
     name: "Ethereum",
@@ -19,7 +18,6 @@
     total: "$9,194.84",
     shortTerm: 55320.15,
     longTerm: 8239.29,
-    toSell: "5.6736 ETH",
   },
   {
     name: "Tether",
@@ -30,7 +28,6 @@
     total: "$3,560.02",
     shortTerm: -1200,
     longTerm: 2400,
-    toSell: "-",
   },
   {
     name: "Polygon",
@@ -41,7 +38,6 @@
     total: "$5,105.10",
     shortTerm: -1200,
     longTerm: 2400,
-    toSell: "-",
   },
   {
     name: "Solana",
@@ -52,7 +48,6 @@
     total: "$14,272.70",
     shortTerm: 1230,
     longTerm: 760,
-    toSell: "10 SOL",
   },
   {
     name: "Cardano",
@@ -63,7 +58,6 @@
     total: "$10,800.00",
     shortTerm: 600,
     longTerm: 900,
-    toSell: "-",
   },
   {
     name: "Dogecoin",
@@ -74,7 +68,6 @@
     total: "$3,690.00",
     shortTerm: -300,
     longTerm: 500,
-    toSell: "-",
   },
   {
     name: "Ripple",
@@ -85,7 +78,6 @@
     total: "$4,662.00",
     shortTerm: 700,
     longTerm: 1300,
-    toSell: "-",
   },
   {
     name: "Litecoin",
@@ -96,7 +88,6 @@
     total: "$6,672.50",
     shortTerm: 0,
     longTerm: 250,
-    toSell: "10 LTC",
   },
   {
     name: "Chainlink",
@@ -107,6 +98,5 @@
     total: "$14,473.20",
     shortTerm: -600,
     longTerm: 2100,
-    toSell: "-",
   }
 ]
