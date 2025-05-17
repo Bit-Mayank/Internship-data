@@ -1,45 +1,50 @@
 [
   {
+    "id": 1,
     "name": "Bitcoin",
     "symbol": "BTC",
     "logo": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
     "holdings": "0.63776 BTC",
     "rate": "$85,320.15",
     "total": "$54,402.38",
-    "shortTerm": -1200,
-    "longTerm": 2400
+    "shortTerm": 1800,
+    "longTerm": -2400
   },
   {
+    "id": 2,
     "name": "Ethereum",
     "symbol": "ETH",
     "logo": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
     "holdings": "5.6736 ETH",
     "rate": "$1,620.15",
     "total": "$9,194.84",
-    "shortTerm": 55320.15,
-    "longTerm": 8239.29
+    "shortTerm": -4200,
+    "longTerm": 5000
   },
   {
+    "id": 3,
     "name": "Tether",
     "symbol": "USDT",
     "logo": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
     "holdings": "3096.54 USDT",
     "rate": "$1.15",
     "total": "$3,560.02",
-    "shortTerm": -1200,
-    "longTerm": 2400
+    "shortTerm": -500,
+    "longTerm": -700
   },
   {
+    "id": 4,
     "name": "Polygon",
     "symbol": "MATIC",
     "logo": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
     "holdings": "2210 MATIC",
     "rate": "$2.31",
     "total": "$5,105.10",
-    "shortTerm": -1200,
-    "longTerm": 2400
+    "shortTerm": 800,
+    "longTerm": 1600
   },
   {
+    "id": 5,
     "name": "Solana",
     "symbol": "SOL",
     "logo": "https://assets.coingecko.com/coins/images/4128/large/solana.png",
@@ -47,39 +52,43 @@
     "rate": "$160.12",
     "total": "$14,272.70",
     "shortTerm": 1230,
-    "longTerm": 760
+    "longTerm": -760
   },
   {
+    "id": 6,
     "name": "Cardano",
     "symbol": "ADA",
     "logo": "https://assets.coingecko.com/coins/images/975/large/cardano.png",
     "holdings": "15000 ADA",
     "rate": "$0.72",
     "total": "$10,800.00",
-    "shortTerm": 600,
-    "longTerm": 900
+    "shortTerm": -800,
+    "longTerm": 1300
   },
   {
+    "id": 7,
     "name": "Dogecoin",
     "symbol": "DOGE",
     "logo": "https://assets.coingecko.com/coins/images/5/large/dogecoin.png",
     "holdings": "20500 DOGE",
     "rate": "$0.18",
     "total": "$3,690.00",
-    "shortTerm": -300,
-    "longTerm": 500
+    "shortTerm": 250,
+    "longTerm": -150
   },
   {
+    "id": 8,
     "name": "Ripple",
     "symbol": "XRP",
     "logo": "https://assets.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png",
     "holdings": "7400 XRP",
     "rate": "$0.63",
     "total": "$4,662.00",
-    "shortTerm": 700,
-    "longTerm": 1300
+    "shortTerm": -200,
+    "longTerm": 1100
   },
   {
+    "id": 9,
     "name": "Litecoin",
     "symbol": "LTC",
     "logo": "https://assets.coingecko.com/coins/images/2/large/litecoin.png",
@@ -87,16 +96,17 @@
     "rate": "$92.12",
     "total": "$6,672.50",
     "shortTerm": 0,
-    "longTerm": 250
+    "longTerm": -400
   },
   {
+    "id": 10,
     "name": "Chainlink",
     "symbol": "LINK",
     "logo": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png",
     "holdings": "840 LINK",
     "rate": "$17.23",
     "total": "$14,473.20",
-    "shortTerm": -600,
+    "shortTerm": -300,
     "longTerm": 2100
   }
 ]
